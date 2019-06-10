@@ -304,8 +304,4 @@ springboot內置的日志管理模块，使用slf4j
 参考https://github.com/murraco/spring-boot-jwt 添加的jwt模块，实现网站的简单鉴权
 
 
-
-### 温馨提示
-　　如果您自己想在本地跑一跑，可以将其checkout到本地，直接`mvn clean install -U` 就ok了，如果您只想运行某个模块，直接复制配置文件和代码就ok了，如果您在测试某个模块但该模块出错，请尽快联系本人,邮箱:**vector4wang@qq.com**,我会在第一时间将其修复
-
 欢迎star、fork 和 pr
